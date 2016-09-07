@@ -1,9 +1,8 @@
-spring_mvc_base
-===============
+FitnessTracker
+==============
 
-Base project used for my Pluralsight Spring JPA and Spring Security courses among others.
+This the output after applying Spring Security from pluralsight course:
 
 http://pluralsight.com/training/Courses/TableOfContents/maven-fundamentals
 
-http://pluralsight.com/training/Courses/TableOfContents/springmvc-intro
 
